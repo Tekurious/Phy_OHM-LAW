@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Phy_Ohm_Law.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 10afbedb01afad54a91fbccd7089ca72, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0cf9d490c99b8a9488b4e9c0877788de, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: afdb55ee6582b5842a9d0f047fa03603, type: 2}
